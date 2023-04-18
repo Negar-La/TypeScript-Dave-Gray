@@ -13,3 +13,5 @@ let c: number = 2;
 
 console.log(a/b); //JS uses dynamic types and it coerced the data ('6') to the type that it wants (6)
 console.log(c * b);
+//TS is a statically typed language. This means types are checked at compile time.
+//JS is a dynamically typed language. This means types are checked at run time.

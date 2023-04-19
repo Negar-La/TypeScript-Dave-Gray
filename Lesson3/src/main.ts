@@ -88,7 +88,7 @@ const res = greetGuitarist(evh)
 console.log(res);
 
 
-//you can use interface instead of type:
+//you can use interface instead of type, with no = sign:
 interface myObject {
     name: string,
     active?: boolean,
